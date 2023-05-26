@@ -56,7 +56,6 @@
 - [maurossi/linux](https://github.com/maurossi/linux) - android-x86 kernels
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
-- [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [beaups/SamsungCID](https://github.com/beaups/SamsungCID) - Change the CID in Samsung eMMC
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [othermod/PSPi-1000-Version-4](https://github.com/othermod/PSPi-1000-Version-4) - https://othermod.com/pspi-1000-version-4/
@@ -197,6 +196,7 @@
 
 ## Others 
 
+- [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [bradmcnally/bradmcnally](https://github.com/bradmcnally/bradmcnally) - 
