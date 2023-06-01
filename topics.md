@@ -436,7 +436,7 @@
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [the-via/app](https://github.com/the-via/app) - 
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
-- [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of TypeScript runtimes
+- [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of Node.js TypeScript runtimes
 - [rg9400/Plex-Trakt-Scrobbler](https://github.com/rg9400/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [unexpectedpanda/retool](https://github.com/unexpectedpanda/retool) - Retool: a better filter tool for Redump and No-Intro dats.
 - [ShadowOne333/A-Link-to-the-Past-Redux](https://github.com/ShadowOne333/A-Link-to-the-Past-Redux) - Source code recreation of A Link to the Past Redux
