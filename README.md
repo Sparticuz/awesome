@@ -81,7 +81,7 @@
 
 ## C++ 
 
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
 - [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
