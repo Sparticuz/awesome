@@ -34,6 +34,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## Assembly 
 
@@ -82,6 +83,7 @@
 
 ## C++ 
 
+- [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
@@ -302,7 +304,6 @@
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium (x86-64) for Serverless Platforms
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [Sparticuz/chrome-aws-lambda](https://github.com/Sparticuz/chrome-aws-lambda) - This package has been deprecated in favor of @sparticuz/chromium
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [target/mmk-ui-api](https://github.com/target/mmk-ui-api) - UI, API, and Scanner (Rules Engine) services for Merry Maker
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
@@ -315,6 +316,10 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
+
+## Vue 
+
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 
 
 ## License
