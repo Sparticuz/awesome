@@ -48,7 +48,7 @@
 
 ## C 
 
-- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
+- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [CFSworks/nvml_fix](https://github.com/CFSworks/nvml_fix) - A workaround for an annoying bug in nVidia's NVML library. Allows nvidia-smi to work once more!
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
