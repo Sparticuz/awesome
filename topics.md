@@ -215,6 +215,7 @@
 
 ## docker 
 
+- [hertzg/rtl_433_docker](https://github.com/hertzg/rtl_433_docker) - 📡+🐋=💘 rtl_433 multiarch docker images.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - Games on Whales - stream games (and GUI) running in Docker
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
@@ -281,6 +282,7 @@
 
 ## hacktoberfest 
 
+- [hertzg/rtl_433_docker](https://github.com/hertzg/rtl_433_docker) - 📡+🐋=💘 rtl_433 multiarch docker images.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [Sparticuz/node-qpdf2](https://github.com/Sparticuz/node-qpdf2) - A Content Preserving transformations on PDFs wrapped around QPDF
@@ -586,6 +588,7 @@
 
 ## raspberry-pi 
 
+- [hertzg/rtl_433_docker](https://github.com/hertzg/rtl_433_docker) - 📡+🐋=💘 rtl_433 multiarch docker images.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
