@@ -469,6 +469,7 @@
 
 ## others 
 
+- [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [kloptops/harbourmaster](https://github.com/kloptops/harbourmaster) - New Portmaster Backend Engine
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
