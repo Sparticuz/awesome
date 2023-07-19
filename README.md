@@ -49,6 +49,7 @@
 
 ## C 
 
+- [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -61,7 +62,7 @@
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [beaups/SamsungCID](https://github.com/beaups/SamsungCID) - Change the CID in Samsung eMMC
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [othermod/PSPi-1000-Version-4](https://github.com/othermod/PSPi-1000-Version-4) - https://othermod.com/pspi-1000-version-4/
 - [konnected-io/konnected-security](https://github.com/konnected-io/konnected-security) - Konnected connects wired sensors and switches to SmartThings, Home Assistant, Hubitat and OpenHAB
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
@@ -254,7 +255,7 @@
 
 ## Python 
 
-- [kloptops/harbourmaster](https://github.com/kloptops/harbourmaster) - New Portmaster Backend Engine
+- [kloptops/harbourmaster](https://github.com/kloptops/harbourmaster) - Package manager for PortMaster.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [rg9400/Plex-Trakt-Scrobbler](https://github.com/rg9400/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
