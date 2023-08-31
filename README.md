@@ -57,7 +57,6 @@
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [openmiko/openmiko](https://github.com/openmiko/openmiko) - Open source firmware for Ingenic T20 based devices such as WyzeCam V2, Xiaomi Xiaofang 1S, iSmartAlarm's Spot+ and others.
 - [kitakar5525/surface3-atomisp-cameras](https://github.com/kitakar5525/surface3-atomisp-cameras) - 
-- [android-generic/kernel_common](https://github.com/android-generic/kernel_common) - 
 - [maurossi/linux](https://github.com/maurossi/linux) - android-x86 kernels
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
