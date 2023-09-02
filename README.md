@@ -141,6 +141,7 @@
 
 ## JavaScript 
 
+- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [sdennett55/svg_crop](https://github.com/sdennett55/svg_crop) - Remove blank space from around any SVG instantly.
 - [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
 - [phips28/gh-action-bump-version](https://github.com/phips28/gh-action-bump-version) - GitHub Action for automated npm version bump.
