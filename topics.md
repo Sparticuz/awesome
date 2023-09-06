@@ -79,6 +79,7 @@
 - [programming](#programming)
 - [project-management](#project-management)
 - [python](#python)
+- [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -626,6 +627,10 @@
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
+
+## python3 
+
+- [ZeroDayArcade/RG353-WiFi-Penetration-Tool](https://github.com/ZeroDayArcade/RG353-WiFi-Penetration-Tool) - Hacking WiFi Networks with the Anbernic RG353 line of hardware and other Retro Gaming Handhelds
 
 ## raspberry-pi 
 
