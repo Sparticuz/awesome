@@ -260,6 +260,7 @@
 
 ## Python 
 
+- [ZeroDayArcade/RG353-WiFi-Penetration-Tool](https://github.com/ZeroDayArcade/RG353-WiFi-Penetration-Tool) - Hacking WiFi Networks with the Anbernic RG353 line of hardware and other Retro Gaming Handhelds
 - [kloptops/harbourmaster](https://github.com/kloptops/harbourmaster) - Package manager for PortMaster.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
