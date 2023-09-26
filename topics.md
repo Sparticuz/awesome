@@ -468,6 +468,7 @@
 
 ## others 
 
+- [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - E-Iink based dashboard for every day life
 - [sgcderek/helix-antenna-scaffold](https://github.com/sgcderek/helix-antenna-scaffold) - 
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
