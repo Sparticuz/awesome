@@ -209,6 +209,7 @@
 
 ## OpenSCAD 
 
+- [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [sgcderek/helix-antenna-scaffold](https://github.com/sgcderek/helix-antenna-scaffold) - 
 
 ## Others 
