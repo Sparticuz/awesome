@@ -463,6 +463,7 @@
 
 ## open-source 
 
+- [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather) - Code and documentation for the Pirate Weather API
 - [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
