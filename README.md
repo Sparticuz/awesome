@@ -143,6 +143,7 @@
 
 ## JavaScript 
 
+- [tybayn/phasmo-cheat-sheet](https://github.com/tybayn/phasmo-cheat-sheet) - A client facing webapp guide for the horror video game Phasmophobia.
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [sdennett55/svg_crop](https://github.com/sdennett55/svg_crop) - Remove blank space from around any SVG instantly.
 - [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
