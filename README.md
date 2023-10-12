@@ -50,6 +50,7 @@
 
 ## C 
 
+- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
@@ -332,7 +333,7 @@
 - [Sparticuz/chrome-aws-lambda](https://github.com/Sparticuz/chrome-aws-lambda) - This package has been deprecated in favor of @sparticuz/chromium
 - [target/mmk-ui-api](https://github.com/target/mmk-ui-api) - UI, API, and Scanner (Rules Engine) services for Merry Maker
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
+- [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [sebbo2002/ical-generator](https://github.com/sebbo2002/ical-generator) - ical-generator is a small piece of code which generates ical calendar files
 - [bradzacher/mysqldump](https://github.com/bradzacher/mysqldump) - Node Module to Create a Backup from MySQL
