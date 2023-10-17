@@ -50,6 +50,7 @@
 
 ## C 
 
+- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
@@ -87,6 +88,10 @@
 
 ## C++ 
 
+- [OpenXcom/OpenXcom](https://github.com/OpenXcom/OpenXcom) - Open-source clone of the original X-Com 👽
+- [xoreos/xoreos](https://github.com/xoreos/xoreos) - A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P
+- [seedhartha/reone](https://github.com/seedhartha/reone) - Game engine capable of running KotOR and TSL
+- [Banderi/Ozymandias](https://github.com/Banderi/Ozymandias) - An open source re-implementation of Pharaoh (1999) in the Julius/Augustus engine
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
@@ -119,7 +124,7 @@
 
 ## Go 
 
-- [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - E-Iink daily calendar/dashboard
+- [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - E-Iink daily calendar/dashboard
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
 - [KostyaEsmukov/smtp_to_telegram](https://github.com/KostyaEsmukov/smtp_to_telegram) - A small program that listens for SMTP and sends all incoming Email messages to Telegram
@@ -216,6 +221,8 @@
 
 ## Others 
 
+- [Cebion/Portmaster_builds](https://github.com/Cebion/Portmaster_builds) - Compile instructions and Portmaster releases
+- [radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes.
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
@@ -264,6 +271,8 @@
 
 ## Python 
 
+- [nosro1/ports](https://github.com/nosro1/ports) - Ports for Anbernic handheld consoles (PortMaster/HarbourMaster)
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather) - Code and documentation for the Pirate Weather API
 - [ZeroDayArcade/RG353-WiFi-Penetration-Tool](https://github.com/ZeroDayArcade/RG353-WiFi-Penetration-Tool) - Hacking WiFi Networks with the Anbernic RG353 line of hardware and other Retro Gaming Handhelds
 - [kloptops/harbourmaster](https://github.com/kloptops/harbourmaster) - Package manager for PortMaster.
@@ -305,6 +314,7 @@
 
 ## Shell 
 
+- [kloptops/Portmaster-misc](https://github.com/kloptops/Portmaster-misc) - Portmaster ports I have released.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - Games on Whales - stream games (and GUI) running in Docker
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [cgomesu/tvhlink](https://github.com/cgomesu/tvhlink) - TVHlink (Tvheadend + Streamlink) integration
