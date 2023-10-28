@@ -18,6 +18,7 @@
 - [c](#c)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [css](#css)
@@ -184,6 +185,10 @@
 ## cli 
 
 - [aleios-cloud/sls-dev-tools](https://github.com/aleios-cloud/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
+
+## computer-science 
+
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
 ## continuous-integration 
 
@@ -600,7 +605,6 @@
 - [schollz/recursive-recipes](https://github.com/schollz/recursive-recipes) - Visualize the recursive nature of recipes :cake: :cookie:
 - [brbeaird/SmartThings_RainMachine](https://github.com/brbeaird/SmartThings_RainMachine) - Integrate SmartThings with RainMachine
 - [rjelierse/update-gmail-signature](https://github.com/rjelierse/update-gmail-signature) - A simple utility to update the GMail signature of all users in your G Suite organization
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [othermod/PSPi-1000-Version-4](https://github.com/othermod/PSPi-1000-Version-4) - https://othermod.com/pspi-1000-version-4/
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [konnected-io/konnected-security](https://github.com/konnected-io/konnected-security) - Konnected connects wired sensors and switches to SmartThings, Home Assistant, Hubitat and OpenHAB
