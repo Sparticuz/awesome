@@ -626,7 +626,7 @@
 - [sirWest/AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
-- [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - git mirror of upstream bzr at http://launchpad.net/byobu
+- [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - text window manager, shell multiplexer, integrated DevOps environment
 - [BuildMan-Alpha/AlphaHelp](https://github.com/BuildMan-Alpha/AlphaHelp) - Alpha Software Documentation
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
 - [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable,
