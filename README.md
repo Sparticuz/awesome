@@ -28,7 +28,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -266,10 +265,6 @@
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [ferventcoder/chocolatey-packages](https://github.com/ferventcoder/chocolatey-packages) - The packages...all about the packages.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-
-## Pug 
-
-- [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 
 ## Python 
 
