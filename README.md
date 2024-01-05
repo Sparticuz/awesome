@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
