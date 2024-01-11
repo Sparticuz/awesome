@@ -148,7 +148,7 @@
 
 ## Java 
 
-- [LibrePDF/OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please f
+- [LibrePDF/OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please 
 
 ## JavaScript 
 
