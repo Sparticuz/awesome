@@ -504,7 +504,7 @@
 ## nextjs 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
-- [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
+- [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 
 ## node 
@@ -527,7 +527,7 @@
 ## open-source 
 
 - [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
-- [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
+- [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
