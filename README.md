@@ -152,6 +152,7 @@
 
 ## JavaScript 
 
+- [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [tybayn/phasmo-cheat-sheet](https://github.com/tybayn/phasmo-cheat-sheet) - A client facing webapp guide for the horror video game Phasmophobia.
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [sdennett55/svg_crop](https://github.com/sdennett55/svg_crop) - Remove blank space from around any SVG instantly.
@@ -198,6 +199,7 @@
 
 ## Kotlin 
 
+- [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [mattttvaughn/chronicle](https://github.com/mattttvaughn/chronicle) - 
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
