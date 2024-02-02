@@ -121,6 +121,7 @@
 
 ## android 
 
+- [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
@@ -536,6 +537,7 @@
 
 ## others 
 
+- [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [Arrin-KN1E/SDR-Band-Plans](https://github.com/Arrin-KN1E/SDR-Band-Plans) - Detailed band plans for SDR Software
 - [AM2R-Community-Developers/AM2RLauncher](https://github.com/AM2R-Community-Developers/AM2RLauncher) - Host respository for the AM2RLauncher.
