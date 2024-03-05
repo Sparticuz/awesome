@@ -206,7 +206,6 @@
 
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 
 ## css 
@@ -281,7 +280,6 @@
 ## emulator 
 
 - [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 
 ## es6 
 
