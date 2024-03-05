@@ -106,7 +106,6 @@
 - [zpukr/esp8266-WindStation](https://github.com/zpukr/esp8266-WindStation) - Simply weather station on ESP8266
 - [hmtheboy154/iptsd](https://github.com/hmtheboy154/iptsd) - Userspace daemon for Intel Precise Touch & Stylus, ported to Android-x86
 - [jesec/rtorrent](https://github.com/jesec/rtorrent) - stable, high-performance and low resource consumption BitTorrent client
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable,
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
