@@ -129,7 +129,7 @@
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - Minimalistic audiobook player
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
@@ -392,7 +392,7 @@
 ## ios 
 
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 
 ## iot 
@@ -478,7 +478,7 @@
 ## material-design 
 
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - Minimalistic audiobook player
 
 ## microsoft 
@@ -837,7 +837,7 @@
 ## web 
 
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
 
 ## webapp 
