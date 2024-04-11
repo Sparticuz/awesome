@@ -245,7 +245,7 @@
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [nuclearsandwich/surface3-archlinux](https://github.com/nuclearsandwich/surface3-archlinux) - Archlinux on the Microsoft Surface Pro 3
 - [mailchimp/email-blueprints](https://github.com/mailchimp/email-blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails
 - [JoshuaKGoldberg/Old-Deleted-FullScreenMario](https://github.com/JoshuaKGoldberg/Old-Deleted-FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
