@@ -547,6 +547,7 @@
 
 ## others 
 
+- [kevinbentley/Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment
 - [davelosert/vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) - A GitHub Action to report vitest test coverage results
 - [nalgeon/grep-by-example](https://github.com/nalgeon/grep-by-example) - Step-by-step guide to grep operations
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
