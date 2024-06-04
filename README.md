@@ -175,7 +175,6 @@
 - [egoist/maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
-- [furybee/chrome-tab-modifier](https://github.com/furybee/chrome-tab-modifier) - Take control of your tabs
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [apaszke/tcp-ping](https://github.com/apaszke/tcp-ping) - TCP ping utility for node.js
@@ -368,6 +367,7 @@
 ## Vue 
 
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+- [furybee/chrome-tab-modifier](https://github.com/furybee/chrome-tab-modifier) - Take control of your tabs
 
 
 ## License
