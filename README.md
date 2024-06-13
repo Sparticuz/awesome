@@ -323,7 +323,7 @@
 ## Shell 
 
 - [kloptops/Portmaster-misc](https://github.com/kloptops/Portmaster-misc) - Portmaster ports I have released.
-- [games-on-whales/gow](https://github.com/games-on-whales/gow) - Games on Whales - stream games (and GUI) running in Docker
+- [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [cgomesu/tvhlink](https://github.com/cgomesu/tvhlink) - TVHlink (Tvheadend + Streamlink) integration
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
