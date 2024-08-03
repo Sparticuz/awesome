@@ -277,6 +277,7 @@
 
 ## Python 
 
+- [ont/slacker](https://github.com/ont/slacker) - Simple smtp email server which redirects emails to slack.
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [nosro1/ports](https://github.com/nosro1/ports) - Ports for Anbernic handheld consoles (PortMaster/HarbourMaster)
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
