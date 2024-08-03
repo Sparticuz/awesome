@@ -548,6 +548,7 @@
 
 ## others 
 
+- [ont/slacker](https://github.com/ont/slacker) - Simple smtp email server which redirects emails to slack.
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [davelosert/vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) - A GitHub Action to report vitest test coverage results
 - [nalgeon/grep-by-example](https://github.com/nalgeon/grep-by-example) - Step-by-step guide to grep operations
