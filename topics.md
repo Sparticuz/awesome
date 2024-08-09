@@ -825,6 +825,7 @@
 
 ## typescript 
 
+- [febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase](https://github.com/febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase) - Reproduce a problem with typesafe editing of model entities nullable text fields.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
