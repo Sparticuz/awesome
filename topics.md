@@ -52,6 +52,7 @@
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -389,6 +390,10 @@
 ## http 
 
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
+
+## https 
+
+- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
 
 ## ios 
 
