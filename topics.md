@@ -159,10 +159,12 @@
 
 ## awesome 
 
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes.
 
 ## awesome-list 
 
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
@@ -551,6 +553,7 @@
 
 ## open-source 
 
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
@@ -563,6 +566,7 @@
 
 ## others 
 
+- [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [ont/slacker](https://github.com/ont/slacker) - Simple smtp email server which redirects emails to slack.
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [davelosert/vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) - A GitHub Action to report vitest test coverage results
