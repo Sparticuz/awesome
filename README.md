@@ -224,6 +224,7 @@
 
 ## Others 
 
+- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [nalgeon/grep-by-example](https://github.com/nalgeon/grep-by-example) - Step-by-step guide to grep operations
