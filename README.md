@@ -118,6 +118,7 @@
 
 ## Dockerfile 
 
+- [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
 - [mikenye/docker-steam](https://github.com/mikenye/docker-steam) - Valve's Steam, on Linux, in Docker. Perfect for gaming via Remote Play.
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [looselyrigorous/docker-rtorrent](https://github.com/looselyrigorous/docker-rtorrent) - A bare-bones docker container for headless rTorrent based on Alpine Linux
