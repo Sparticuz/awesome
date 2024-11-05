@@ -632,7 +632,7 @@
 - [dougmoscrop/serverless-plugin-log-subscription](https://github.com/dougmoscrop/serverless-plugin-log-subscription) - 
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/pinggy](https://github.com/vasanthv/pinggy) - Group video call for the web. No signups. No downloads.
 - [bradmcnally/bradmcnally](https://github.com/bradmcnally/bradmcnally) - 
 - [maurossi/linux](https://github.com/maurossi/linux) - android-x86 kernels
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
