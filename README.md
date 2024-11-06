@@ -164,7 +164,7 @@
 - [lumigo-io/SAR-Logging](https://github.com/lumigo-io/SAR-Logging) - Serverless applications for managing CloudWatch Logs log groups for your Lambda functions.
 - [dougmoscrop/serverless-plugin-log-subscription](https://github.com/dougmoscrop/serverless-plugin-log-subscription) - 
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
-- [vasanthv/pinggy](https://github.com/vasanthv/pinggy) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [aleios-cloud/sls-dev-tools](https://github.com/aleios-cloud/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
 - [daball/node-usps](https://github.com/daball/node-usps) - This library implements many of the USPS Publication 28 guidelines in the form of an address building class. It accepts multiple fields of address inputs, and then builds a USPS compatible address.
 - [tc39/proposal-uuid](https://github.com/tc39/proposal-uuid) - UUID proposal for ECMAScript (Stage 1)
