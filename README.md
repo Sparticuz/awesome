@@ -142,6 +142,7 @@
 
 ## HTML 
 
+- [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [BuildMan-Alpha/AlphaHelp](https://github.com/BuildMan-Alpha/AlphaHelp) - Alpha Software Documentation
 - [onetsp/RecipeParser](https://github.com/onetsp/RecipeParser) - A PHP library for parsing structured recipe data from HTML files.
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
@@ -273,7 +274,6 @@
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [ferventcoder/chocolatey-packages](https://github.com/ferventcoder/chocolatey-packages) - The packages...all about the packages.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Pug 
 
@@ -285,7 +285,6 @@
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [nosro1/ports](https://github.com/nosro1/ports) - Ports for Anbernic handheld consoles (PortMaster/HarbourMaster)
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
-- [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [ZeroDayArcade/RG353-WiFi-Penetration-Tool](https://github.com/ZeroDayArcade/RG353-WiFi-Penetration-Tool) - Hacking WiFi Networks with the Anbernic RG353 line of hardware and other Retro Gaming Handhelds
 - [kloptops/harbourmaster](https://github.com/kloptops/harbourmaster) - Package manager for PortMaster.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
@@ -306,6 +305,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 
