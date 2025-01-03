@@ -176,7 +176,7 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [alexa-labs/skill-sample-nodejs-space-explorer](https://github.com/alexa-labs/skill-sample-nodejs-space-explorer) - Sample multi-modal skill.
 - [egoist/maid](https://github.com/egoist/maid) - Markdown driven task runner.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
