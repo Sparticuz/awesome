@@ -142,6 +142,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [BuildMan-Alpha/AlphaHelp](https://github.com/BuildMan-Alpha/AlphaHelp) - Alpha Software Documentation
 - [onetsp/RecipeParser](https://github.com/onetsp/RecipeParser) - A PHP library for parsing structured recipe data from HTML files.
