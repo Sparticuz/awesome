@@ -33,6 +33,7 @@
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
+- [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
 - [emulator](#emulator)
@@ -288,6 +289,10 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
+
+## dotnet 
+
+- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
 
 ## education 
 
