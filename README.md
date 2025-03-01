@@ -128,7 +128,6 @@
 
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
 - [KostyaEsmukov/smtp_to_telegram](https://github.com/KostyaEsmukov/smtp_to_telegram) - A simple program that listens for SMTP and forwards all incoming Email messages to Telegram
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
