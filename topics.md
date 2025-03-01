@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -110,7 +109,6 @@
 - [sql](#sql)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
-- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -121,10 +119,6 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
-
-## ai 
-
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
 ## android 
 
@@ -366,7 +360,6 @@
 ## golang 
 
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 
 ## gulp 
@@ -496,7 +489,6 @@
 
 ## machine-learning 
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 
 ## macos 
@@ -819,7 +811,6 @@
 
 ## self-hosted 
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 
 ## serverless 
@@ -845,10 +836,6 @@
 ## telegram 
 
 - [KostyaEsmukov/smtp_to_telegram](https://github.com/KostyaEsmukov/smtp_to_telegram) - A simple program that listens for SMTP and forwards all incoming Email messages to Telegram
-
-## tensorflow 
-
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
 ## terminal 
 
