@@ -118,6 +118,7 @@
 
 ## Dockerfile 
 
+- [stefanoboriero/lgtm-docker](https://github.com/stefanoboriero/lgtm-docker) - Docker-compose configuration for the LGTM observability stack, all interfaced via the OTel collector
 - [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
 - [mikenye/docker-steam](https://github.com/mikenye/docker-steam) - Valve's Steam, on Linux, in Docker. Perfect for gaming via Remote Play.
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
