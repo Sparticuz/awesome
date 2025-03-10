@@ -575,6 +575,7 @@
 
 ## others 
 
+- [stefanoboriero/lgtm-docker](https://github.com/stefanoboriero/lgtm-docker) - Docker-compose configuration for the LGTM observability stack, all interfaced via the OTel collector
 - [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) - 
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
