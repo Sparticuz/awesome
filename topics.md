@@ -576,7 +576,7 @@
 ## others 
 
 - [stefanoboriero/lgtm-docker](https://github.com/stefanoboriero/lgtm-docker) - Docker-compose configuration for the LGTM observability stack, all interfaced via the OTel collector
-- [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) - 
+- [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) - Firmware installer: https://yashmulgaonkar.github.io/halo/
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
