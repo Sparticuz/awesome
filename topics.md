@@ -575,6 +575,8 @@
 
 ## others 
 
+- [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
+- [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [stefanoboriero/lgtm-docker](https://github.com/stefanoboriero/lgtm-docker) - Docker-compose configuration for the LGTM observability stack, all interfaced via the OTel collector
 - [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) - Firmware installer: https://yashmulgaonkar.github.io/halo/
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
