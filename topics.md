@@ -602,7 +602,7 @@
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [sgcderek/helix-antenna-scaffold](https://github.com/sgcderek/helix-antenna-scaffold) - 
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
-- [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
+- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote Using ESP32 and LVGL
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [kloptops/harbourmaster](https://github.com/kloptops/harbourmaster) - Package manager for PortMaster.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
