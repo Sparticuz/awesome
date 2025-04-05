@@ -94,7 +94,7 @@
 - [xoreos/xoreos](https://github.com/xoreos/xoreos) - A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P
 - [seedhartha/reone](https://github.com/seedhartha/reone) - Game engine capable of running KotOR and TSL
 - [Banderi/Ozymandias](https://github.com/Banderi/Ozymandias) - An open source re-implementation of Pharaoh (1999) in the Julius/Augustus engine
-- [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
+- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote Using ESP32 and LVGL
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
