@@ -108,6 +108,7 @@
 - [software](#software)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -820,6 +821,10 @@
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 
 ## telegram 
+
+- [KostyaEsmukov/smtp_to_telegram](https://github.com/KostyaEsmukov/smtp_to_telegram) - A simple program that listens for SMTP and forwards all incoming Email messages to Telegram
+
+## telegram-bot 
 
 - [KostyaEsmukov/smtp_to_telegram](https://github.com/KostyaEsmukov/smtp_to_telegram) - A simple program that listens for SMTP and forwards all incoming Email messages to Telegram
 
