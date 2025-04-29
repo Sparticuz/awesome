@@ -310,7 +310,7 @@
 
 ## finance 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## flask 
 
@@ -715,7 +715,7 @@
 ## postgresql 
 
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 
@@ -782,7 +782,7 @@
 
 ## ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
