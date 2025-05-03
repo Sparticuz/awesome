@@ -356,7 +356,7 @@
 - [the-via/app](https://github.com/the-via/app) - 
 - [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of Node.js TypeScript runtimes
 - [Sparticuz/node-qpdf2](https://github.com/Sparticuz/node-qpdf2) - A Content Preserving transformations on PDFs wrapped around QPDF
-- [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium (x86-64) for Serverless Platforms
+- [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [Sparticuz/chrome-aws-lambda](https://github.com/Sparticuz/chrome-aws-lambda) - This package has been deprecated in favor of @sparticuz/chromium
 - [target/mmk-ui-api](https://github.com/target/mmk-ui-api) - UI, API, and Scanner (Rules Engine) services for Merry Maker
