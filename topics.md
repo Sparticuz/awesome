@@ -106,6 +106,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [software](#software)
+- [sql](#sql)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
@@ -369,7 +370,6 @@
 ## golang 
 
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
-- [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 
 ## gulp 
 
@@ -817,6 +817,10 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## sql 
+
+- [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 
 ## tailwind 
 
