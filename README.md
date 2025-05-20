@@ -99,6 +99,7 @@
 - [zpukr/esp8266-WindStation](https://github.com/zpukr/esp8266-WindStation) - Simply weather station on ESP8266
 - [jesec/rtorrent](https://github.com/jesec/rtorrent) - stable, high-performance and low resource consumption BitTorrent client
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [rakshasa/libtorrent](https://github.com/rakshasa/libtorrent) - libTorrent BitTorrent library
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
@@ -301,7 +302,6 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 
