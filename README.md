@@ -340,6 +340,7 @@
 
 ## TypeScript 
 
+- [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object
 - [mihailthebuilder/hex-tailwind](https://github.com/mihailthebuilder/hex-tailwind) - Small web app that converts your HEX code to the closest color in the Tailwind color palette.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Shadcn datetime picker supports timezone, min date, max date
