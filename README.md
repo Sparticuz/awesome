@@ -63,7 +63,7 @@
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [beaups/SamsungCID](https://github.com/beaups/SamsungCID) - Change the CID in Samsung eMMC
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [othermod/PSPi-1000-Version-4](https://github.com/othermod/PSPi-1000-Version-4) - https://othermod.com/pspi-1000-version-4/
 - [konnected-io/konnected-security](https://github.com/konnected-io/konnected-security) - Konnected connects wired sensors and switches to SmartThings, Home Assistant, Hubitat and OpenHAB
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
