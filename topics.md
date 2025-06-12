@@ -229,7 +229,7 @@
 
 ## css 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [mihailthebuilder/hex-tailwind](https://github.com/mihailthebuilder/hex-tailwind) - Small web app that converts your HEX code to the closest color in the Tailwind color palette.
 - [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
@@ -253,7 +253,7 @@
 
 ## database 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [bradzacher/mysqldump](https://github.com/bradzacher/mysqldump) - Node Module to Create a Backup from MySQL
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -281,7 +281,7 @@
 
 ## docker 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [hertzg/rtl_433_docker](https://github.com/hertzg/rtl_433_docker) - 📡+🐋=💘 rtl_433 multiarch docker images.
@@ -322,7 +322,7 @@
 
 ## flask 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 
 ## flutter 
 
@@ -408,7 +408,7 @@
 
 ## html 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
@@ -435,7 +435,7 @@
 
 ## javascript 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
@@ -567,7 +567,7 @@
 
 ## open-source 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
@@ -725,7 +725,7 @@
 
 ## postgresql 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -744,7 +744,7 @@
 
 ## python 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
@@ -812,7 +812,7 @@
 
 ## self-hosted 
 
-- [sassanix/Warracker](https://github.com/sassanix/Warracker) - An open-source web application to manage product warranties, track expiration dates, and store related documents.
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 
 ## serverless 
