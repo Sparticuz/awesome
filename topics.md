@@ -90,6 +90,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [python](#python)
@@ -734,6 +735,11 @@
 ## powershell 
 
 - [EvotecIT/Testimo](https://github.com/EvotecIT/Testimo) - Testimo is a PowerShell module for running health checks for Active Directory against a bunch of different tests
+
+## productivity 
+
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 ## programming 
 
