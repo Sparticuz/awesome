@@ -111,7 +111,6 @@
 ## Dockerfile 
 
 - [stefanoboriero/lgtm-docker](https://github.com/stefanoboriero/lgtm-docker) - Docker-compose configuration for the LGTM observability stack, all interfaced via the OTel collector
-- [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
 - [mikenye/docker-steam](https://github.com/mikenye/docker-steam) - Valve's Steam, on Linux, in Docker. Perfect for gaming via Remote Play.
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [looselyrigorous/docker-rtorrent](https://github.com/looselyrigorous/docker-rtorrent) - A bare-bones docker container for headless rTorrent based on Alpine Linux
@@ -278,6 +277,7 @@
 
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
+- [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
 - [ont/slacker](https://github.com/ont/slacker) - Simple smtp email server which redirects emails to slack.
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [nosro1/ports](https://github.com/nosro1/ports) - Ports for Anbernic handheld consoles (PortMaster/HarbourMaster)
