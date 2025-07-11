@@ -583,6 +583,8 @@
 
 ## others 
 
+- [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
+- [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative
 - [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object
 - [Geocodio/geocodio-library-node](https://github.com/Geocodio/geocodio-library-node) - geocod.io Node library
