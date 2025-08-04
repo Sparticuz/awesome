@@ -17,7 +17,6 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -187,10 +186,6 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [jackmoore/autosize](https://github.com/jackmoore/autosize) - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 
-## Jinja 
-
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-
 ## Jsonnet 
 
 - [monitoringartist/grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) - :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
@@ -303,6 +298,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [dbr/tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
 
