@@ -748,6 +748,7 @@
 
 ## powershell 
 
+- [jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo) - A tiny tool built to find and fix common misconfigurations in Active Directory-integrated DNS
 - [EvotecIT/Testimo](https://github.com/EvotecIT/Testimo) - Testimo is a PowerShell module for running health checks for Active Directory against a bunch of different tests
 
 ## productivity 
