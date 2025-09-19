@@ -593,6 +593,7 @@
 
 ## others 
 
+- [Cian-Chambliss/AAAi](https://github.com/Cian-Chambliss/AAAi) - Alpha Anywhere AI integration NPM package source
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [Allegra42/ZEReader](https://github.com/Allegra42/ZEReader) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated 
 - [Allegra42/ZEReader-KiCad](https://github.com/Allegra42/ZEReader-KiCad) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated 
