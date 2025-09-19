@@ -148,6 +148,7 @@
 
 ## JavaScript 
 
+- [Cian-Chambliss/AAAi](https://github.com/Cian-Chambliss/AAAi) - Alpha Anywhere AI integration NPM package source
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative
 - [Geocodio/geocodio-library-node](https://github.com/Geocodio/geocodio-library-node) - geocod.io Node library
