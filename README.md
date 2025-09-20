@@ -77,7 +77,7 @@
 - [AM2R-Community-Developers/AM2RLauncher](https://github.com/AM2R-Community-Developers/AM2RLauncher) - Host respository for the AM2RLauncher.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [feo-cz/win-sshfs](https://github.com/feo-cz/win-sshfs) - Fork of http://code.google.com/p/win-sshfs/
 - [sirWest/AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
 
