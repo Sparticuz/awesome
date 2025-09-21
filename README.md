@@ -199,7 +199,7 @@
 - [mattttvaughn/chronicle](https://github.com/mattttvaughn/chronicle) - 
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
-- [VoiceAudiobook/Voice](https://github.com/VoiceAudiobook/Voice) - Minimalistic audiobook player
+- [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - Minimalistic audiobook player
 
 ## Lua 
 
