@@ -43,6 +43,7 @@
 - [es6](#es6)
 - [express](#express)
 - [finance](#finance)
+- [firefox](#firefox)
 - [flutter](#flutter)
 - [font](#font)
 - [frontend](#frontend)
@@ -335,6 +336,10 @@
 ## finance 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+
+## firefox 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## flutter 
 
