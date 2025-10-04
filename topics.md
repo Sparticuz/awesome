@@ -78,7 +78,6 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [microsoft](#microsoft)
-- [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -540,10 +539,6 @@
 ## microsoft 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-
-## minecraft 
-
-- [bedrock-viz/bedrock-viz](https://github.com/bedrock-viz/bedrock-viz) - Minecraft Bedrock Edition World Visualization & Reporting Tool with Web App
 
 ## mongodb 
 
