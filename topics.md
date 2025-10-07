@@ -42,6 +42,7 @@
 - [electron](#electron)
 - [emulator](#emulator)
 - [es6](#es6)
+- [eslint](#eslint)
 - [express](#express)
 - [finance](#finance)
 - [firefox](#firefox)
@@ -334,6 +335,10 @@
 ## es6 
 
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+
+## eslint 
+
+- [marcalexiei/eslint-plugin-zod-x](https://github.com/marcalexiei/eslint-plugin-zod-x) - ESLint plugin that adds custom linting rules to enforce best practices when using Zod
 
 ## express 
 
