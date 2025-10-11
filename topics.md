@@ -129,6 +129,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [youtube](#youtube)
 
 ## ai 
 
@@ -944,6 +945,10 @@
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+## youtube 
+
+- [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
 
 
 ## License
