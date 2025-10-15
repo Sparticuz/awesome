@@ -155,7 +155,6 @@
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [tybayn/phasmo-cheat-sheet](https://github.com/tybayn/phasmo-cheat-sheet) - A client facing webapp guide for the horror video game Phasmophobia.
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
@@ -358,6 +357,7 @@
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Shadcn datetime picker supports timezone, min date, max date
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase](https://github.com/febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase) - Reproduce a problem with typesafe editing of model entities nullable text fields.
 - [davelosert/vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) - A GitHub Action to report vitest test coverage results
 - [avi12/youtube-auto-hd](https://github.com/avi12/youtube-auto-hd) - A simple browser extension for changing YouTube videos' quality based on FPS.
