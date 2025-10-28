@@ -74,6 +74,7 @@
 
 ## C# # 
 
+- [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - A modern Flyout app for Windows 11, built with Fluent 2 Design principles. Includes Media, Up Next, and Lock Keys flyouts.
 - [AM2R-Community-Developers/AM2RLauncher](https://github.com/AM2R-Community-Developers/AM2RLauncher) - Host respository for the AM2RLauncher.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
