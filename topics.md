@@ -607,6 +607,7 @@
 
 ## others 
 
+- [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [robsturgill/3d-model-muncher](https://github.com/robsturgill/3d-model-muncher) - Keep your 3d printing models organized
 - [Cian-Chambliss/AAAi](https://github.com/Cian-Chambliss/AAAi) - Alpha Anywhere AI integration NPM package source
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
