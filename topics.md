@@ -19,6 +19,7 @@
 - [bootstrap](#bootstrap)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -215,6 +216,10 @@
 - [seedhartha/reone](https://github.com/seedhartha/reone) - Game engine capable of running KotOR and TSL
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
+
+## chrome 
+
+- [furybee/chrome-tab-modifier](https://github.com/furybee/chrome-tab-modifier) - Take control of your tabs
 
 ## chrome-extension 
 
