@@ -57,6 +57,7 @@
 - [git](#git)
 - [github](#github)
 - [golang](#golang)
+- [gui](#gui)
 - [gulp](#gulp)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -411,6 +412,11 @@
 
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
+
+## gui 
+
+- [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+- [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 
 ## gulp 
 
