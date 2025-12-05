@@ -690,7 +690,7 @@
 - [target/mmk-ui-api](https://github.com/target/mmk-ui-api) - UI, API, and Scanner (Rules Engine) services for Merry Maker
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
 - [openmiko/openmiko](https://github.com/openmiko/openmiko) - Open source firmware for Ingenic T20 based devices such as WyzeCam V2, Xiaomi Xiaofang 1S, iSmartAlarm's Spot+ and others.
-- [aws/aws-lambda-nodejs-runtime-interface-client](https://github.com/aws/aws-lambda-nodejs-runtime-interface-client) - 
+- [aws/aws-lambda-nodejs-runtime-interface-client](https://github.com/aws/aws-lambda-nodejs-runtime-interface-client) - AWS Lambda Runtime Interface Client for Node.js
 - [kitakar5525/surface3-atomisp-cameras](https://github.com/kitakar5525/surface3-atomisp-cameras) - 
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
