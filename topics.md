@@ -703,7 +703,6 @@
 - [lumigo-io/SAR-Logging](https://github.com/lumigo-io/SAR-Logging) - Serverless applications for managing CloudWatch Logs log groups for your Lambda functions.
 - [dougmoscrop/serverless-plugin-log-subscription](https://github.com/dougmoscrop/serverless-plugin-log-subscription) - 
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [bradmcnally/bradmcnally](https://github.com/bradmcnally/bradmcnally) - 
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [inetsys/pdftk-aws-lambda](https://github.com/inetsys/pdftk-aws-lambda) - AWS Lambda Layer with PDFtk
