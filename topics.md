@@ -586,7 +586,6 @@
 ## nextjs 
 
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
 ## node 
 
@@ -702,7 +701,7 @@
 - [jesec/rtorrent](https://github.com/jesec/rtorrent) - stable, high-performance and low resource consumption BitTorrent client
 - [lumigo-io/SAR-Logging](https://github.com/lumigo-io/SAR-Logging) - Serverless applications for managing CloudWatch Logs log groups for your Lambda functions.
 - [dougmoscrop/serverless-plugin-log-subscription](https://github.com/dougmoscrop/serverless-plugin-log-subscription) - 
-- [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
+- [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.resolve.rs/
 - [bradmcnally/bradmcnally](https://github.com/bradmcnally/bradmcnally) - 
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [inetsys/pdftk-aws-lambda](https://github.com/inetsys/pdftk-aws-lambda) - AWS Lambda Layer with PDFtk
