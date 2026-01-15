@@ -347,7 +347,7 @@
 
 ## eslint 
 
-- [marcalexiei/eslint-plugin-zod-x](https://github.com/marcalexiei/eslint-plugin-zod-x) - ESLint plugin that adds custom linting rules to enforce best practices when using Zod
+- [marcalexiei/eslint-plugin-zod](https://github.com/marcalexiei/eslint-plugin-zod) - ESLint plugin that adds custom linting rules to enforce best practices when using Zod
 
 ## express 
 
