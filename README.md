@@ -334,7 +334,7 @@
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [cgomesu/tvhlink](https://github.com/cgomesu/tvhlink) - TVHlink (Tvheadend + Streamlink) integration
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
-- [sprockteam/ubi-tools](https://github.com/sprockteam/ubi-tools) - A collection of tools and information related to managing software and hardware from Ubiquiti.
+- [sprocktech/ubi-tools](https://github.com/sprocktech/ubi-tools) - A collection of tools and information related to managing software and hardware from Ubiquiti.
 - [wmnnd/nginx-certbot](https://github.com/wmnnd/nginx-certbot) - Boilerplate configuration for nginx and certbot with docker-compose
 - [coursehero/slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
