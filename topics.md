@@ -712,7 +712,7 @@
 - [inetsys/pdftk-aws-lambda](https://github.com/inetsys/pdftk-aws-lambda) - AWS Lambda Layer with PDFtk
 - [daball/node-usps](https://github.com/daball/node-usps) - This library implements many of the USPS Publication 28 guidelines in the form of an address building class. It accepts multiple fields of address inputs, and then builds a USPS compatible address.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-- [sprockteam/ubi-tools](https://github.com/sprockteam/ubi-tools) - A collection of tools and information related to managing software and hardware from Ubiquiti.
+- [sprocktech/ubi-tools](https://github.com/sprocktech/ubi-tools) - A collection of tools and information related to managing software and hardware from Ubiquiti.
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [wmnnd/nginx-certbot](https://github.com/wmnnd/nginx-certbot) - Boilerplate configuration for nginx and certbot with docker-compose
