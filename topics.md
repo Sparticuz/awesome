@@ -623,6 +623,7 @@
 
 ## others 
 
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel-art workstation firmware for the M5Stack Cardputer ADV.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [robsturgill/3d-model-muncher](https://github.com/robsturgill/3d-model-muncher) - Keep your 3d printing models organized
