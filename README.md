@@ -46,7 +46,7 @@
 
 ## C 
 
-- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel-art workstation firmware for the M5Stack Cardputer ADV.
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel-art workstation for the M5Stack Cardputer ADV.
 - [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [Allegra42/ZEReader](https://github.com/Allegra42/ZEReader) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated 
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
@@ -76,7 +76,7 @@
 - [AM2R-Community-Developers/AM2RLauncher](https://github.com/AM2R-Community-Developers/AM2RLauncher) - Host respository for the AM2RLauncher.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [feo-cz/win-sshfs](https://github.com/feo-cz/win-sshfs) - Fork of http://code.google.com/p/win-sshfs/
 - [sirWest/AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
 
