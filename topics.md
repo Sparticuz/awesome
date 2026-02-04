@@ -623,7 +623,7 @@
 
 ## others 
 
-- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel-art workstation for the M5Stack Cardputer ADV.
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art workstation for the M5Stack Cardputer ADV.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [robsturgill/3d-model-muncher](https://github.com/robsturgill/3d-model-muncher) - Keep your 3d printing models organized
@@ -660,7 +660,7 @@
 - [nosro1/ports](https://github.com/nosro1/ports) - Ports for Anbernic handheld consoles (PortMaster/HarbourMaster)
 - [Cebion/Portmaster_builds](https://github.com/Cebion/Portmaster_builds) - Compile instructions and Portmaster releases
 - [kloptops/Portmaster-misc](https://github.com/kloptops/Portmaster-misc) - Portmaster ports I have released.
-- [Banderi/Ozymandias](https://github.com/Banderi/Ozymandias) - An open source re-implementation of Pharaoh (1999) in the Julius/Augustus engine
+- [Banderi/Ozymandias_Julius](https://github.com/Banderi/Ozymandias_Julius) - An open source re-implementation of Pharaoh (1999) in the Julius/Augustus engine
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
 - [tybayn/phasmo-cheat-sheet](https://github.com/tybayn/phasmo-cheat-sheet) - A client facing webapp guide for the horror video game Phasmophobia.
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
