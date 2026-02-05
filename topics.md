@@ -95,6 +95,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [productivity](#productivity)
@@ -623,7 +624,6 @@
 
 ## others 
 
-- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art workstation for the M5Stack Cardputer ADV.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [robsturgill/3d-model-muncher](https://github.com/robsturgill/3d-model-muncher) - Keep your 3d printing models organized
@@ -774,6 +774,10 @@
 - [Art-of-WiFi/UniFi-API-browser](https://github.com/Art-of-WiFi/UniFi-API-browser) - Tool to browse data exposed by Ubiquiti's UniFi Controller API
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [gboudreau/Greyhole](https://github.com/gboudreau/Greyhole) - Greyhole uses Samba to create a storage pool of all your available hard drives, and allows you to create redundant copies of the files you store.
+
+## pixel-art 
+
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art tool for the M5Stack Cardputer ADV.
 
 ## postgresql 
 
