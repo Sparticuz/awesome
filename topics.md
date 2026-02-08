@@ -777,7 +777,7 @@
 
 ## pixel-art 
 
-- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art tool for the M5Stack Cardputer ADV.
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
 
 ## postgresql 
 
