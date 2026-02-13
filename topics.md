@@ -76,6 +76,7 @@
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -136,6 +137,7 @@
 
 ## ai 
 
+- [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -537,6 +539,10 @@
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [gboudreau/Greyhole](https://github.com/gboudreau/Greyhole) - Greyhole uses Samba to create a storage pool of all your available hard drives, and allows you to create redundant copies of the files you store.
 
+## llm 
+
+- [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
+
 ## machine-learning 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -559,6 +565,7 @@
 
 ## mcp 
 
+- [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microsoft 
@@ -805,6 +812,7 @@
 
 ## python 
 
+- [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -924,6 +932,7 @@
 
 ## typescript 
 
+- [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase](https://github.com/febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase) - Reproduce a problem with typesafe editing of model entities nullable text fields.
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
