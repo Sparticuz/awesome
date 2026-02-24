@@ -631,6 +631,7 @@
 
 ## others 
 
+- [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [robsturgill/3d-model-muncher](https://github.com/robsturgill/3d-model-muncher) - Keep your 3d printing models organized
