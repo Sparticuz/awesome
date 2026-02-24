@@ -18,6 +18,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -193,6 +194,10 @@
 ## Jsonnet 
 
 - [monitoringartist/grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) - :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
+
+## Jupyter Notebook 
+
+- [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
 
 ## Kotlin 
 
