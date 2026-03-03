@@ -429,6 +429,7 @@
 
 ## hacktoberfest 
 
+- [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [erseco/alpine-moodle](https://github.com/erseco/alpine-moodle) - Moodle docker image based on Alpine Linux
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
