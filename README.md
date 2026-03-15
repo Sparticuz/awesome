@@ -46,7 +46,6 @@
 
 ## C 
 
-- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
 - [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [Allegra42/ZEReader](https://github.com/Allegra42/ZEReader) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated 
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
@@ -83,6 +82,7 @@
 ## C++ 
 
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
 - [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
 - [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
 - [OpenXcom/OpenXcom](https://github.com/OpenXcom/OpenXcom) - Open-source clone of the original X-Com 👽
@@ -207,7 +207,6 @@
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [mattttvaughn/chronicle](https://github.com/mattttvaughn/chronicle) - 
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
-- [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
 - [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - Minimalistic audiobook player
 
 ## Lua 
@@ -243,6 +242,7 @@
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [bradmcnally/bradmcnally](https://github.com/bradmcnally/bradmcnally) - 
+- [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
 - [somedowntime/libreofficegrouppolicy](https://github.com/somedowntime/libreofficegrouppolicy) - admx and adml group policy gpo for libreoffice 4.2 onwards
 - [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [pyrho/hack-font-ligature-nerd-font](https://github.com/pyrho/hack-font-ligature-nerd-font) - Nerd font patched Hack font with ligatures
