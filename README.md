@@ -210,6 +210,7 @@
 
 ## Lua 
 
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## MDX 
@@ -239,7 +240,6 @@
 - [radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes.
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
-- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [bradmcnally/bradmcnally](https://github.com/bradmcnally/bradmcnally) - 
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
 - [somedowntime/libreofficegrouppolicy](https://github.com/somedowntime/libreofficegrouppolicy) - admx and adml group policy gpo for libreoffice 4.2 onwards
