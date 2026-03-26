@@ -299,7 +299,7 @@
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [rg9400/Plex-Trakt-Scrobbler](https://github.com/rg9400/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [unexpectedpanda/retool](https://github.com/unexpectedpanda/retool) - Retool: a better filter tool for Redump and No-Intro DAT files.
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 - [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
