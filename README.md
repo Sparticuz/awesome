@@ -241,6 +241,7 @@
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [bradmcnally/bradmcnally](https://github.com/bradmcnally/bradmcnally) - 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [emrsmsrli/Caffeine](https://github.com/emrsmsrli/Caffeine) - 
 - [somedowntime/libreofficegrouppolicy](https://github.com/somedowntime/libreofficegrouppolicy) - admx and adml group policy gpo for libreoffice 4.2 onwards
 - [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
@@ -275,7 +276,6 @@
 
 - [jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo) - A tiny tool built to find and fix common misconfigurations in Active Directory-integrated DNS
 - [EvotecIT/Testimo](https://github.com/EvotecIT/Testimo) - Testimo is a PowerShell module for running health checks for Active Directory against a bunch of different tests
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [ferventcoder/chocolatey-packages](https://github.com/ferventcoder/chocolatey-packages) - The packages...all about the packages.
 
