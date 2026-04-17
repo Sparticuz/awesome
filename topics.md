@@ -59,6 +59,7 @@
 - [golang](#golang)
 - [gui](#gui)
 - [gulp](#gulp)
+- [hack](#hack)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
@@ -429,6 +430,11 @@
 ## gulp 
 
 - [egoist/maid](https://github.com/egoist/maid) - Markdown driven task runner.
+
+## hack 
+
+- [pyrho/hack-font-ligature-nerd-font](https://github.com/pyrho/hack-font-ligature-nerd-font) - Nerd font patched Hack font with ligatures
+- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 
 ## hacktoberfest 
 
