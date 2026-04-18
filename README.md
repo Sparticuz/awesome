@@ -167,7 +167,6 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [tybayn/phasmo-cheat-sheet](https://github.com/tybayn/phasmo-cheat-sheet) - A client facing webapp guide for the horror video game Phasmophobia.
-- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [sdennett55/svg_crop](https://github.com/sdennett55/svg_crop) - Remove blank space from around any SVG instantly.
 - [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
 - [phips28/gh-action-bump-version](https://github.com/phips28/gh-action-bump-version) - GitHub Action for automated npm version bump.
@@ -219,6 +218,7 @@
 
 ## Makefile 
 
+- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
 - [inetsys/pdftk-aws-lambda](https://github.com/inetsys/pdftk-aws-lambda) - AWS Lambda Layer with PDFtk
 
