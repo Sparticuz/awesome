@@ -93,6 +93,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
@@ -628,6 +629,10 @@
 ## npm 
 
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+
+## obsidian 
+
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## open-source 
 
