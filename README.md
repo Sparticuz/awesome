@@ -366,7 +366,7 @@
 - [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object
 - [mihailthebuilder/hex-tailwind](https://github.com/mihailthebuilder/hex-tailwind) - Small web app that converts your HEX code to the closest color in the Tailwind color palette.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
-- [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Shadcn datetime picker supports timezone, min date, max date
+- [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase](https://github.com/febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase) - Reproduce a problem with typesafe editing of model entities nullable text fields.
