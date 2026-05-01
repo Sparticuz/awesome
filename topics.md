@@ -612,6 +612,7 @@
 
 ## nextjs 
 
+- [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 
 ## node 
@@ -673,7 +674,6 @@
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
-- [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Shadcn datetime picker supports timezone, min date, max date
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [ont/slacker](https://github.com/ont/slacker) - Simple smtp email server which redirects emails to slack.
@@ -862,6 +862,7 @@
 ## react 
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
@@ -926,6 +927,7 @@
 
 - [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
+- [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
 
 ## telegram 
 
@@ -950,6 +952,7 @@
 ## typescript 
 
 - [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
+- [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
 - [febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase](https://github.com/febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase) - Reproduce a problem with typesafe editing of model entities nullable text fields.
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
