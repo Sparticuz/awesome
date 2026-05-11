@@ -663,7 +663,7 @@
 - [Allegra42/ZEReader](https://github.com/Allegra42/ZEReader) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated 
 - [Allegra42/ZEReader-KiCad](https://github.com/Allegra42/ZEReader-KiCad) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated 
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
-- [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative
+- [oss-serverless/osls](https://github.com/oss-serverless/osls) - Serverless Framework CLI v3 alternative
 - [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object
 - [Geocodio/geocodio-library-node](https://github.com/Geocodio/geocodio-library-node) - geocod.io Node library
 - [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
