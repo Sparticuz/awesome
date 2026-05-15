@@ -652,6 +652,7 @@
 
 ## others 
 
+- [camelChief/local-bible-ref](https://github.com/camelChief/local-bible-ref) - Quickly and easily reference Bible passages stored locally in your vault.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
