@@ -357,6 +357,7 @@
 
 ## TypeScript 
 
+- [camelChief/local-bible-ref](https://github.com/camelChief/local-bible-ref) - Quickly and easily reference Bible passages stored locally in your vault.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
