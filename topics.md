@@ -231,7 +231,7 @@
 
 ## cli 
 
-- [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
+- [pixop/video-compare](https://github.com/pixop/video-compare) - Split-screen video comparison tool using FFmpeg and SDL2
 - [aleios-cloud/sls-dev-tools](https://github.com/aleios-cloud/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
 
 ## cloud 
@@ -352,7 +352,7 @@
 ## eslint 
 
 - [marcalexiei/eslint-zod](https://github.com/marcalexiei/eslint-zod) - ESLint plugin that adds custom linting rules to enforce best practices when using Zod
-- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
+- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 
 ## esp32 
 
@@ -652,6 +652,7 @@
 
 ## others 
 
+- [timkindberg/rhf-compiler-compat](https://github.com/timkindberg/rhf-compiler-compat) - Test suite verifying react-hook-form API compatibility with React Compiler. 39 tests, 12 confirmed failures, workaround verification.
 - [camelChief/local-bible-ref](https://github.com/camelChief/local-bible-ref) - Quickly and easily reference Bible passages stored locally in your vault.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -921,13 +922,13 @@
 
 ## tailwind 
 
-- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
+- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [mihailthebuilder/hex-tailwind](https://github.com/mihailthebuilder/hex-tailwind) - Small web app that converts your HEX code to the closest color in the Tailwind color palette.
 
 ## tailwindcss 
 
-- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
+- [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
 
@@ -962,12 +963,12 @@
 
 ## ui 
 
-- [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
+- [pixop/video-compare](https://github.com/pixop/video-compare) - Split-screen video comparison tool using FFmpeg and SDL2
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## video 
 
-- [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
+- [pixop/video-compare](https://github.com/pixop/video-compare) - Split-screen video comparison tool using FFmpeg and SDL2
 
 ## visual-studio-code 
 
