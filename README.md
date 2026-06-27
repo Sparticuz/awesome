@@ -141,6 +141,7 @@
 
 ## HTML 
 
+- [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
 - [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) - Firmware installer: https://yashmulgaonkar.github.io/halo/
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
@@ -339,7 +340,6 @@
 ## Shell 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
 - [kloptops/Portmaster-misc](https://github.com/kloptops/Portmaster-misc) - Portmaster ports I have released.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
