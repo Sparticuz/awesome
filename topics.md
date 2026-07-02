@@ -77,6 +77,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
+- [learn-to-code](#learn-to-code)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -544,6 +545,10 @@
 ## laravel 
 
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
+
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 
 ## library 
 
