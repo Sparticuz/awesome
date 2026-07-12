@@ -668,6 +668,7 @@
 
 ## others 
 
+- [bradmcnally/beepbotdx](https://github.com/bradmcnally/beepbotdx) - A tiny sampler and sequencer for the M5Stack Cardputer ADV/Zero
 - [m5stack/CardputerZero-AppBuilder](https://github.com/m5stack/CardputerZero-AppBuilder) - 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 - [timkindberg/rhf-compiler-compat](https://github.com/timkindberg/rhf-compiler-compat) - Test suite verifying react-hook-form API compatibility with React Compiler. 39 tests, 12 confirmed failures, workaround verification.
