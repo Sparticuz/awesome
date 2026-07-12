@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [bradmcnally/beepbotdx](https://github.com/bradmcnally/beepbotdx) - A tiny sampler and sequencer for the M5Stack Cardputer ADV/Zero
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split-screen video comparison tool using FFmpeg and SDL2
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
