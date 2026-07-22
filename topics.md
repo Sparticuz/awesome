@@ -691,7 +691,7 @@
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [stefanoboriero/lgtm-docker](https://github.com/stefanoboriero/lgtm-docker) - Docker-compose configuration for the LGTM observability stack, all interfaced via the OTel collector
-- [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) - Firmware installer: https://yashmulgaonkar.github.io/halo/
+- [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) - An open-source, ESP32-powered air quality monitor with an RGB ring, touchscreen, and comprehensive environmental sensors. Firmware installer: https://yashmulgaonkar.github.io/halo/
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
