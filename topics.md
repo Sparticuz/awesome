@@ -355,7 +355,7 @@
 ## emulator 
 
 - [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 
 ## es6 
 
