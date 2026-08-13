@@ -144,6 +144,7 @@
 
 - [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 
 ## JSON 
@@ -157,6 +158,7 @@
 
 ## JavaScript 
 
+- [slootjes/osls-aws-provider-request-shim](https://github.com/slootjes/osls-aws-provider-request-shim) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Cian-Chambliss/AAAi](https://github.com/Cian-Chambliss/AAAi) - Alpha Anywhere AI integration NPM package source
@@ -302,7 +304,6 @@
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [rg9400/Plex-Trakt-Scrobbler](https://github.com/rg9400/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [unexpectedpanda/retool](https://github.com/unexpectedpanda/retool) - Retool: a better filter tool for Redump and No-Intro DAT files.
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
