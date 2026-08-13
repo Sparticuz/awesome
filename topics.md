@@ -668,6 +668,7 @@
 
 ## others 
 
+- [slootjes/osls-aws-provider-request-shim](https://github.com/slootjes/osls-aws-provider-request-shim) - 
 - [bradmcnally/beepbotdx](https://github.com/bradmcnally/beepbotdx) - A tiny sampler and sequencer for the M5Stack Cardputer ADV/Zero
 - [CardputerZero/AppBuilder](https://github.com/CardputerZero/AppBuilder) - 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
