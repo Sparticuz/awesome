@@ -432,7 +432,6 @@
 
 ## golang 
 
-- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
 
 ## gui 
@@ -668,6 +667,7 @@
 
 ## others 
 
+- [Borchev/esp32-usb-nut-server](https://github.com/Borchev/esp32-usb-nut-server) - NUT Server that runs on an ESP32S2/ESP32S3 with generic support for USB-HID UPS models
 - [bradmcnally/letterboard](https://github.com/bradmcnally/letterboard) - 
 - [slootjes/osls-aws-provider-request-shim](https://github.com/slootjes/osls-aws-provider-request-shim) - 
 - [bradmcnally/beepbotdx](https://github.com/bradmcnally/beepbotdx) - A tiny sampler and sequencer for the M5Stack Cardputer ADV/Zero
@@ -689,6 +689,7 @@
 - [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object
 - [Geocodio/geocodio-library-node](https://github.com/Geocodio/geocodio-library-node) - geocod.io Node library
 - [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
+- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
 - [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
