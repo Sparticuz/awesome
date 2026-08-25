@@ -160,6 +160,7 @@
 
 ## JavaScript 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [slootjes/osls-aws-provider-request-shim](https://github.com/slootjes/osls-aws-provider-request-shim) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
