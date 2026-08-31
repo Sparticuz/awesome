@@ -118,6 +118,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
+- [reactjs](#reactjs)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -693,7 +694,7 @@
 - [CardputerZero/AppBuilder](https://github.com/CardputerZero/AppBuilder) - 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 - [timkindberg/rhf-compiler-compat](https://github.com/timkindberg/rhf-compiler-compat) - Test suite verifying react-hook-form API compatibility with React Compiler. 39 tests, 12 confirmed failures, workaround verification.
-- [camelChief/local-bible-ref](https://github.com/camelChief/local-bible-ref) - Quickly and easily reference Bible passages stored locally in your vault.
+- [c4mpbellsoup/local-bible-ref](https://github.com/c4mpbellsoup/local-bible-ref) - Quickly and easily reference Bible passages stored locally in your vault.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -916,7 +917,12 @@
 
 ## react-native 
 
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+## reactjs 
+
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 
 ## reverse-engineering 
 
@@ -997,6 +1003,7 @@
 
 ## typescript 
 
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
 - [febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase](https://github.com/febeling/nextjs14-shadcnui-zod-rhf-drizzle-testcase) - Reproduce a problem with typesafe editing of model entities nullable text fields.
