@@ -291,6 +291,7 @@
 
 ## Python 
 
+- [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
 - [CardputerZero/AppBuilder](https://github.com/CardputerZero/AppBuilder) - 
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
