@@ -108,6 +108,7 @@
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
@@ -579,6 +580,7 @@
 
 ## linux 
 
+- [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
@@ -599,6 +601,7 @@
 
 ## macos 
 
+- [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 
@@ -861,6 +864,10 @@
 - [jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo) - A tiny tool built to find and fix common misconfigurations in Active Directory-integrated DNS
 - [EvotecIT/Testimo](https://github.com/EvotecIT/Testimo) - Testimo is a PowerShell module for running health checks for Active Directory against a bunch of different tests
 
+## privacy 
+
+- [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
+
 ## productivity 
 
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
@@ -880,6 +887,7 @@
 
 ## python 
 
+- [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
 - [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
@@ -1044,6 +1052,7 @@
 
 ## windows 
 
+- [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
