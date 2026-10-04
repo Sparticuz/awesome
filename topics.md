@@ -146,6 +146,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [youtube](#youtube)
 
 ## agent-skills 
@@ -1069,6 +1070,11 @@
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+## windows-11 
+
+- [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## youtube 
 
