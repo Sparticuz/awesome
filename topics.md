@@ -697,6 +697,7 @@
 
 ## others 
 
+- [pmilano1/synology-dsm-api](https://github.com/pmilano1/synology-dsm-api) - API reference for Synology DSM 7 — FileStation, Photos, Drive, Cloud Sync, Hyper Backup, Active Backup, Surveillance Station, VPN, Login Portal/Reverse Proxy, Docker, Snapshot, and more
 - [Borchev/esp32-usb-nut-server](https://github.com/Borchev/esp32-usb-nut-server) - NUT Server that runs on an ESP32S2/ESP32S3 with generic support for USB-HID UPS models
 - [bradmcnally/letterboard](https://github.com/bradmcnally/letterboard) - 
 - [slootjes/osls-aws-provider-request-shim](https://github.com/slootjes/osls-aws-provider-request-shim) - 
