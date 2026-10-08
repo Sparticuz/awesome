@@ -346,6 +346,7 @@
 
 ## Shell 
 
+- [pmilano1/synology-dsm-api](https://github.com/pmilano1/synology-dsm-api) - API reference for Synology DSM 7 — FileStation, Photos, Drive, Cloud Sync, Hyper Backup, Active Backup, Surveillance Station, VPN, Login Portal/Reverse Proxy, Docker, Snapshot, and more
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [kloptops/Portmaster-misc](https://github.com/kloptops/Portmaster-misc) - Portmaster ports I have released.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
