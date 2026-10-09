@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CoffeeScript](#coffeescript)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -111,6 +112,10 @@
 ## CoffeeScript 
 
 - [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
+
+## Dart 
+
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 
 ## Dockerfile 
 
@@ -335,6 +340,7 @@
 
 ## Rust 
 
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [solokeys/solo2](https://github.com/solokeys/solo2) - Solo 2 firmware in Rust
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
