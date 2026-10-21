@@ -699,6 +699,7 @@
 
 ## others 
 
+- [ROCKNIX/distribution](https://github.com/ROCKNIX/distribution) - 
 - [pmilano1/synology-dsm-api](https://github.com/pmilano1/synology-dsm-api) - API reference for Synology DSM 7 — FileStation, Photos, Drive, Cloud Sync, Hyper Backup, Active Backup, Surveillance Station, VPN, Login Portal/Reverse Proxy, Docker, Snapshot, and more
 - [Borchev/esp32-usb-nut-server](https://github.com/Borchev/esp32-usb-nut-server) - NUT Server that runs on an ESP32S2/ESP32S3 with generic support for USB-HID UPS models
 - [bradmcnally/letterboard](https://github.com/bradmcnally/letterboard) - 
@@ -955,6 +956,7 @@
 
 ## rust 
 
+- [Newspicel/sdrmm](https://github.com/Newspicel/sdrmm) - modular, client–server software-defined radio
 - [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1024,6 +1026,7 @@
 
 ## typescript 
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [kdcokenny/lsbible](https://github.com/kdcokenny/lsbible) - Bible SDK and MCP server – give Claude, Cursor, and AI apps ground-truth Scripture context
 - [huybuidac/shadcn-datetime-picker](https://github.com/huybuidac/shadcn-datetime-picker) - Timezone-aware datetime picker for shadcn/ui — install via shadcn CLI. Date, time, range, IME-friendly segmented input. Built on react-day-picker v9 + date-fns.
