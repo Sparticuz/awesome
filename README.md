@@ -228,6 +228,7 @@
 
 ## Makefile 
 
+- [ROCKNIX/distribution](https://github.com/ROCKNIX/distribution) - 
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
 - [inetsys/pdftk-aws-lambda](https://github.com/inetsys/pdftk-aws-lambda) - AWS Lambda Layer with PDFtk
@@ -340,6 +341,7 @@
 
 ## Rust 
 
+- [Newspicel/sdrmm](https://github.com/Newspicel/sdrmm) - modular, client–server software-defined radio
 - [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [solokeys/solo2](https://github.com/solokeys/solo2) - Solo 2 firmware in Rust
@@ -371,6 +373,7 @@
 
 ## TypeScript 
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [timkindberg/rhf-compiler-compat](https://github.com/timkindberg/rhf-compiler-compat) - Test suite verifying react-hook-form API compatibility with React Compiler. 39 tests, 12 confirmed failures, workaround verification.
