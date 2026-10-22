@@ -36,6 +36,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Slint](#slint)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 
@@ -73,6 +74,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [AM2R-Community-Developers/AM2RLauncher](https://github.com/AM2R-Community-Developers/AM2RLauncher) - Host respository for the AM2RLauncher.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
@@ -127,6 +129,10 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+- [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
@@ -165,6 +171,8 @@
 
 ## JavaScript 
 
+- [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [slootjes/osls-aws-provider-request-shim](https://github.com/slootjes/osls-aws-provider-request-shim) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -220,6 +228,7 @@
 
 ## Lua 
 
+- [joshuacant/ProjectTitle](https://github.com/joshuacant/ProjectTitle) - UI Plugin for KOReader by @elfbutt and @joshuacant
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## MDX 
@@ -228,6 +237,7 @@
 
 ## Makefile 
 
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [ROCKNIX/distribution](https://github.com/ROCKNIX/distribution) - 
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
@@ -297,6 +307,10 @@
 
 ## Python 
 
+- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
+- [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
 - [CardputerZero/AppBuilder](https://github.com/CardputerZero/AppBuilder) - 
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
@@ -334,6 +348,7 @@
 
 ## Ruby 
 
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
@@ -354,6 +369,9 @@
 
 ## Shell 
 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [KindleTweaks/HotfixUpdater](https://github.com/KindleTweaks/HotfixUpdater) - A Simple Scriptlet That Updates Your Hotfix On-Device
+- [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) - Docker container for HandBrake
 - [pmilano1/synology-dsm-api](https://github.com/pmilano1/synology-dsm-api) - API reference for Synology DSM 7 — FileStation, Photos, Drive, Cloud Sync, Hyper Backup, Active Backup, Surveillance Station, VPN, Login Portal/Reverse Proxy, Docker, Snapshot, and more
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [kloptops/Portmaster-misc](https://github.com/kloptops/Portmaster-misc) - Portmaster ports I have released.
@@ -367,12 +385,18 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 
+## Slint 
+
+- [KindleTweaks/jobman](https://github.com/KindleTweaks/jobman) - A Simple Kindle Jailbreak Manager
+
 ## Swift 
 
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 
 ## TypeScript 
 
+- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
