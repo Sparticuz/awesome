@@ -47,6 +47,7 @@
 
 ## C 
 
+- [amadvance/snapraid-daemon](https://github.com/amadvance/snapraid-daemon) - A lightweight daemon for SnapRAID featuring a REST API, job scheduler, and web interface
 - [Borchev/esp32-usb-nut-server](https://github.com/Borchev/esp32-usb-nut-server) - NUT Server that runs on an ESP32S2/ESP32S3 with generic support for USB-HID UPS models
 - [wiidev/usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 - [Allegra42/ZEReader](https://github.com/Allegra42/ZEReader) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated 
