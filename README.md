@@ -74,6 +74,7 @@
 
 ## C# # 
 
+- [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [AM2R-Community-Developers/AM2RLauncher](https://github.com/AM2R-Community-Developers/AM2RLauncher) - Host respository for the AM2RLauncher.
