@@ -738,6 +738,7 @@
 
 ## others 
 
+- [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 - [amadvance/snapraid-daemon](https://github.com/amadvance/snapraid-daemon) - A lightweight daemon for SnapRAID featuring a REST API, job scheduler, and web interface
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [joshuacant/ProjectTitle](https://github.com/joshuacant/ProjectTitle) - UI Plugin for KOReader by @elfbutt and @joshuacant
