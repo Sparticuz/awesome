@@ -217,6 +217,7 @@
 
 ## Kotlin 
 
+- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [mattttvaughn/chronicle](https://github.com/mattttvaughn/chronicle) - 
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
@@ -438,7 +439,6 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
-- [furybee/chrome-tab-modifier](https://github.com/furybee/chrome-tab-modifier) - Tabee: rename, re-icon, pin, group and mute Chrome tabs automatically with URL rules. Free and open source.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
