@@ -252,7 +252,6 @@
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [nalgeon/grep-by-example](https://github.com/nalgeon/grep-by-example) - Step-by-step guide to grep operations
 - [Arrin-KN1E/SDR-Band-Plans](https://github.com/Arrin-KN1E/SDR-Band-Plans) - Detailed band plans for SDR Software
 - [Cebion/Portmaster_builds](https://github.com/Cebion/Portmaster_builds) - Compile instructions and Portmaster releases
@@ -317,6 +316,7 @@
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
 - [ont/slacker](https://github.com/ont/slacker) - Simple smtp email server which redirects emails to slack.
+- [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [nosro1/ports](https://github.com/nosro1/ports) - Ports for Anbernic handheld consoles (PortMaster/HarbourMaster)
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
