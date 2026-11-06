@@ -748,6 +748,7 @@
 
 ## others 
 
+- [bookorbit/bookorbit-android-support](https://github.com/bookorbit/bookorbit-android-support) - Support and privacy information for the BookOrbit Android app
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 - [amadvance/snapraid-daemon](https://github.com/amadvance/snapraid-daemon) - A lightweight daemon for SnapRAID featuring a REST API, job scheduler, and web interface
