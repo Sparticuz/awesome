@@ -154,6 +154,7 @@
 
 ## HTML 
 
+- [bookorbit/bookorbit-android-support](https://github.com/bookorbit/bookorbit-android-support) - Support and privacy information for the BookOrbit Android app
 - [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
