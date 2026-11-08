@@ -152,6 +152,7 @@
 - [video](#video)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
@@ -1136,6 +1137,10 @@
 ## vpn 
 
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+## vscode 
+
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 
 ## vue 
 
