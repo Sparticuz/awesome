@@ -411,7 +411,7 @@
 ## emulator 
 
 - [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - BIOS and firmware files for emulators, put in the right folder and checked: RetroArch, Batocera, Recalbox, EmuDeck, RetroBat, RetroDECK, Lakka, RetroPie, RomM, ROCKNIX, MiSTer and more. One-line insta
 
 ## es6 
 
@@ -424,6 +424,7 @@
 
 ## esp32 
 
+- [taikun114/SwitchBot-Plug-Mini-for-ESPHome](https://github.com/taikun114/SwitchBot-Plug-Mini-for-ESPHome) - Using SwitchBot Plug Mini in ESPHome
 - [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote - Firmware
 
 ## express 
@@ -538,6 +539,8 @@
 
 ## home-assistant 
 
+- [jjarboe01/TECO-HA-AddOn](https://github.com/jjarboe01/TECO-HA-AddOn) - Tampa Electric (TECO) billing, usage, cost & service-period data in Home Assistant — daily-kWh Energy Dashboard, sidebar billing dashboard, and a never-purged multi-year bill archive.
+- [taikun114/SwitchBot-Plug-Mini-for-ESPHome](https://github.com/taikun114/SwitchBot-Plug-Mini-for-ESPHome) - Using SwitchBot Plug Mini in ESPHome
 - [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [mike-grant/haaska](https://github.com/mike-grant/haaska) - Home Assistant Alexa Skill Adapter that supports v3 of the Alexa Smart Home Skill API
 
@@ -966,6 +969,7 @@
 
 ## python 
 
+- [jjarboe01/TECO-HA-AddOn](https://github.com/jjarboe01/TECO-HA-AddOn) - Tampa Electric (TECO) billing, usage, cost & service-period data in Home Assistant — daily-kWh Energy Dashboard, sidebar billing dashboard, and a never-purged multi-year bill archive.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [AkuchiS/Yap](https://github.com/AkuchiS/Yap) - Free, offline voice dictation for macOS, Windows & Linux — hold a key, speak, and your words appear at the cursor. Local Whisper, learns your vocabulary, no subscription. A Wispr Flow alternative.
@@ -1027,7 +1031,7 @@
 ## rust 
 
 - [Newspicel/sdrmm](https://github.com/Newspicel/sdrmm) - modular, client–server software-defined radio
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 
 ## sass 
