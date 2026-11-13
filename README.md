@@ -219,6 +219,7 @@
 
 ## Kotlin 
 
+- [tanujnotes/Supernova](https://github.com/tanujnotes/Supernova) - Open source alternative to Nova launcher. No network permission.
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [mattttvaughn/chronicle](https://github.com/mattttvaughn/chronicle) - 
