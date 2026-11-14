@@ -761,6 +761,7 @@
 
 ## others 
 
+- [CardputerZero/pi-gen](https://github.com/CardputerZero/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [bookorbit/bookorbit-android-support](https://github.com/bookorbit/bookorbit-android-support) - Support and privacy information for the BookOrbit Android app
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
