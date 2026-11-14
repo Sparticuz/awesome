@@ -372,6 +372,7 @@
 
 ## Shell 
 
+- [CardputerZero/pi-gen](https://github.com/CardputerZero/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [KindleTweaks/HotfixUpdater](https://github.com/KindleTweaks/HotfixUpdater) - A Simple Scriptlet That Updates Your Hotfix On-Device
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) - Docker container for HandBrake
