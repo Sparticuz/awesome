@@ -1053,6 +1053,7 @@
 
 ## self-hosted 
 
+- [Kyonew/DVinyl](https://github.com/Kyonew/DVinyl) - DVinyl is a self-hostable collection management platform for collectors. Catalog, organize and track physical media and collectibles with custom item types, rich metadata, multi-collection support, au
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
