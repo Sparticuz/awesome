@@ -144,7 +144,7 @@
 - [KostyaEsmukov/smtp_to_telegram](https://github.com/KostyaEsmukov/smtp_to_telegram) - A simple program that listens for SMTP and forwards all incoming Email messages to Telegram
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.resolve.rs/
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [schollz/recursive-recipes](https://github.com/schollz/recursive-recipes) - Visualize the recursive nature of recipes :cake: :cookie:
 - [rjelierse/update-gmail-signature](https://github.com/rjelierse/update-gmail-signature) - A simple utility to update the GMail signature of all users in your G Suite organization
 
