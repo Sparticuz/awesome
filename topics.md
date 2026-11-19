@@ -140,6 +140,7 @@
 - [skills](#skills)
 - [software](#software)
 - [sql](#sql)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [tailwind](#tailwind)
@@ -761,6 +762,7 @@
 
 ## others 
 
+- [microsoftgraph/msgraph-sdk-typescript](https://github.com/microsoftgraph/msgraph-sdk-typescript) - 
 - [CardputerZero/pi-gen](https://github.com/CardputerZero/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [bookorbit/bookorbit-android-support](https://github.com/bookorbit/bookorbit-android-support) - Support and privacy information for the BookOrbit Android app
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
@@ -1084,6 +1086,10 @@
 ## sql 
 
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
+
+## static-site-generator 
+
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## statistics 
 
