@@ -400,6 +400,7 @@
 
 ## TypeScript 
 
+- [microsoftgraph/msgraph-sdk-typescript](https://github.com/microsoftgraph/msgraph-sdk-typescript) - 
 - [Kyonew/DVinyl](https://github.com/Kyonew/DVinyl) - DVinyl is a self-hostable collection management platform for collectors. Catalog, organize and track physical media and collectibles with custom item types, rich metadata, multi-collection support, au
 - [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
