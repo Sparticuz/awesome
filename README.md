@@ -67,7 +67,6 @@
 - [othermod/PSPi-1000-Version-4](https://github.com/othermod/PSPi-1000-Version-4) - https://othermod.com/pspi-1000-version-4/
 - [konnected-io/konnected-security](https://github.com/konnected-io/konnected-security) - Konnected connects wired sensors and switches to SmartThings, Home Assistant, Hubitat and OpenHAB
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
-- [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [GrayFace/wog](https://github.com/GrayFace/wog) - In the Wake of Gods 3.59 alpha
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 
@@ -107,6 +106,7 @@
 - [zpukr/esp8266-WindStation](https://github.com/zpukr/esp8266-WindStation) - Simply weather station on ESP8266
 - [jesec/rtorrent](https://github.com/jesec/rtorrent) - stable, high-performance and low resource consumption BitTorrent client
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+- [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [rakshasa/libtorrent](https://github.com/rakshasa/libtorrent) - libTorrent BitTorrent library
@@ -355,6 +355,7 @@
 
 ## Rust 
 
+- [zacharydenton/boko](https://github.com/zacharydenton/boko) - Fast EPUB → KFX / AZW3 / MOBI converter in Rust
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [Newspicel/sdrmm](https://github.com/Newspicel/sdrmm) - modular, client–server software-defined radio
 - [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust
