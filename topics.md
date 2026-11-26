@@ -756,6 +756,7 @@
 
 ## others 
 
+- [zacharydenton/boko](https://github.com/zacharydenton/boko) - Fast EPUB → KFX / AZW3 / MOBI converter in Rust
 - [microsoftgraph/msgraph-sdk-typescript](https://github.com/microsoftgraph/msgraph-sdk-typescript) - 
 - [CardputerZero/pi-gen](https://github.com/CardputerZero/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [bookorbit/bookorbit-android-support](https://github.com/bookorbit/bookorbit-android-support) - Support and privacy information for the BookOrbit Android app
